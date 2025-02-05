@@ -8,6 +8,9 @@ HW TimeSaver collects and processes the following data:
 - Discord Server ID & Name
 - Discord Channel ID & Name
 - Discord User Roles
+- Numbers of a Hero or Titan win probability
+- Discord Users Heroes and Titans
+- Uploaded Screenshots (only if a trigger message was written, like Beat/Preload/preloadGW/HeroSync/Submit)
 
 I do not collect or store emails, phone numbers, phone type or location information of Discord users.
 
@@ -15,7 +18,9 @@ I do not collect or store emails, phone numbers, phone type or location informat
 
 I use the collected data to:
 - Provide and maintain our bot services
-- Provide additional features
+- Provide additional features (Summary of numbers in an embed message with Hero or Titan names inside)
+- Provide statistics
+- Calculate tactic suggestions
 
 ### 3. Data Storage and Security
 
